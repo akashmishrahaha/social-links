@@ -34,8 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [here](https://github.com/akashmishrahaha/social-links)
-- Live Site URL: [here](https://your-live-site-url.com)
-
+- Live Site URL: [here](https://social-sites.netlify.app/)
 ## My process
 
 ### Built with
